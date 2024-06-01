@@ -1,1 +1,2 @@
-# Este es el repositorio Alt-F4-IDS Alumna: Esther Ticlla
+# Introducción al Desarrollo de Software
+Este es un proyecto para practicar Git y GitHub.
