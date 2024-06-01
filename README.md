@@ -5,4 +5,5 @@ Este es un proyecto para practicar Git y GitHub.
 - Jim Segovia Valencia
 - Esther Ticlla Vento
 - Ivan Joaquin Nuñez Cardenas
+- Luis Rodrigo Guevara Chavez
 
